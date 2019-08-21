@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".ui.RealLife"></activity>
+        <activity android:name=".ui.Triforce" />
+        <activity
+            android:name=".NavigationActivity"
+            android:label="@string/title_activity_navigation" />
+        <activity android:name=".ui.Vector">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
