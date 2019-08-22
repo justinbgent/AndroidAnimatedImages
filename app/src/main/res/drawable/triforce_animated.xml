@@ -65,5 +65,5 @@
     <item android:drawable="@drawable/f62" android:duration="35"/>
     <item android:drawable="@drawable/f63" android:duration="35"/>
     <item android:drawable="@drawable/f64" android:duration="35"/>
-    <item android:drawable="@drawable/f65" android:duration="35"/>
+    <item android:drawable="@drawable/f65" android:duration="1000"/>
 </animation-list>
